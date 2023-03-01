@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Ryan, just trying to make sense of this jumble of letters and numbers.
+
+- 🔭 I’m currently working on my Final Project for College, a VR Archery Game
+- 🌱 I’m currently learning Normcore and C# in order to develop with Unity
+- 📫 How to reach me: https://www.linkedin.com/in/ragolden/ or contact my business Email
+- 💬 Ask me about nothing please i'm probably just as confused as you are
+- ⚡ Fun fact: I'm doing my best 👍
 <!--
 **ragolden/ragolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
