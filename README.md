@@ -7,6 +7,7 @@ I'm Ryan, just trying to make sense of this jumble of letters and numbers.
 - 📫 How to reach me: https://www.linkedin.com/in/ragolden/ or contact my business Email
 - 💬 Ask me about nothing please i'm probably just as confused as you are
 - ⚡ Fun fact: I'm doing my best 👍
+- 🖥️ View my portfolio! https://ragolden.github.io/
 <!--
 **ragolden/ragolden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
